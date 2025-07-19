@@ -85,6 +85,7 @@ DB_HOST=localhost
 DB_NAME=backendapp_db
 DB_USER=root
 DB_PASSWORD=your_password
+JWT_SECRET=test_secret
 ```
 
 ---
